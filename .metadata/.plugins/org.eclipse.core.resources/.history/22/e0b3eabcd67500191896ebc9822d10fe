@@ -1,0 +1,11 @@
+
+public class TestaLacos2 {
+	
+    for(int linha = 1; multiplicador < 10; multiplicador++) {
+        for(int contador = 0; linha < 10; contador++) {
+            System.out.print("*");
+        }
+        System.out.println();
+    }
+
+}
